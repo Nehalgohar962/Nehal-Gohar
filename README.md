@@ -1,4 +1,4 @@
-![logo](https://github.com/Nehalgohar962/Nehal-Gohar/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image%20(1).png)
+![logo](https://media.licdn.com/dms/image/v2/D4D16AQGm_eeOqLkXFA/profile-displaybackgroundimage-shrink_200_800/B4DZsUerLsGwAY-/0/1765575144613?e=1767830400&v=beta&t=2kL89iDmoF5ojPmTqTaprui2SMAnbk-WRi1Nj2GWqqM)
 <h1 align="center">Hi 👋, I'm Nehal Gohar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" width="400" alt="girl pic" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
